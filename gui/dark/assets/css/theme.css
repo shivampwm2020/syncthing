@@ -242,6 +242,13 @@ li.hidden-xs:hover, .navbar-link:hover, .navbar-link:focus {
     background-color: #3B3B3B !important;
 }
 
+/* input group addons (e.g. padlock and eye icons in Sharing tab) */
+.input-group-addon {
+    color: #aaa !important;
+    border-color: #424242 !important;
+    background-color: #3B3B3B !important;
+}
+
 code.ng-binding{
     color: #f99 !important;
     background-color: #444 !important;
